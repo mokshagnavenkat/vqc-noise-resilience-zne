@@ -2,7 +2,7 @@
 ## Qiskit Fall Fest 2026 (SRM University-AP) — Phase 1
 **Problem Statement Selected:** Track 4 (QML) — PS-Q3: Noise-Resilient Classification & Error Mitigation  
 **Hardware Processors Evaluated:** Processor A (5-qubit) vs Processor B (9-qubit)  
-**Author:** Principal Quantum Architect  
+**Author:** K.Mokshagna Venkat 
 
 ---
 
