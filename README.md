@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2026: Phase 1 Submission
 ## Track 4: Quantum Machine Learning (QML) — PS-Q3: Noise-Resilient Classification & Error Mitigation
 **SRM University-AP | Official Unified Challenge Kit**  
-**Author:** Principal Quantum Architect  
+**Author:** K.Mokshagna Venkat 
 
 ---
 
