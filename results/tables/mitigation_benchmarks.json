@@ -1,0 +1,101 @@
+[
+  {
+    "processor": "Ideal_Statevector",
+    "regime": "Ideal (Noise-Free)",
+    "mitigation": "none",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 1.0,
+    "circuit_depth": 18,
+    "cx_count": 12
+  },
+  {
+    "processor": "Processor_A",
+    "regime": "Noisy Unmitigated",
+    "mitigation": "none",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.7877,
+    "circuit_depth": 51,
+    "cx_count": 24
+  },
+  {
+    "processor": "Processor_A",
+    "regime": "Readout Inversion (REM)",
+    "mitigation": "rem",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.7877,
+    "circuit_depth": 51,
+    "cx_count": 24
+  },
+  {
+    "processor": "Processor_A",
+    "regime": "Zero-Noise Extrapolation (ZNE)",
+    "mitigation": "zne",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.7877,
+    "circuit_depth": 51,
+    "cx_count": 24
+  },
+  {
+    "processor": "Processor_A",
+    "regime": "Full Hybrid (ZNE + REM)",
+    "mitigation": "both",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.7877,
+    "circuit_depth": 51,
+    "cx_count": 24
+  },
+  {
+    "processor": "Processor_B",
+    "regime": "Noisy Unmitigated",
+    "mitigation": "none",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.8036,
+    "circuit_depth": 30,
+    "cx_count": 12
+  },
+  {
+    "processor": "Processor_B",
+    "regime": "Readout Inversion (REM)",
+    "mitigation": "rem",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.8036,
+    "circuit_depth": 30,
+    "cx_count": 12
+  },
+  {
+    "processor": "Processor_B",
+    "regime": "Zero-Noise Extrapolation (ZNE)",
+    "mitigation": "zne",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.8036,
+    "circuit_depth": 30,
+    "cx_count": 12
+  },
+  {
+    "processor": "Processor_B",
+    "regime": "Full Hybrid (ZNE + REM)",
+    "mitigation": "both",
+    "accuracy": 75.0,
+    "error_rate": 25.0,
+    "mitigation_gain": 0.0,
+    "estimated_fidelity": 0.8036,
+    "circuit_depth": 30,
+    "cx_count": 12
+  }
+]
